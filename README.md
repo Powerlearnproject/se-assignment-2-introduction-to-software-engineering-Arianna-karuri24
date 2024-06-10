@@ -6,25 +6,41 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: 
+software engineering is the systemic application of engineering principles and maintenance of software products
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
+The software development life cycle requires gathering system requirements and designing the software.
+implementing and testing then releasing the software to the customers and maintaining.it allows a structured approach while traditional programming works with logic and a set of rules around a code
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+Agile- a repetitive approach focused on collaboration and responding to change 
+waterfall- it is a sequential approach with distinct phases the cycle itself
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
+agile models is more flexible while waterfall model requires the sequential approach which is linear 
+Agile is used for software development projects while waterfall is used for software engineering
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
+Requirements engineering validates the process of the software development life cycle.
+It involves the documentation and analysing requirements 
+Its importance is that it ensures software quality by designing and executing test plans 
+
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 
+
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
+unit testing tests individual components or modules of software
+integration testing tests interactions between different components
+system testing tests the software as a whole
+acceptance testing tests the software against user requirements 
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
